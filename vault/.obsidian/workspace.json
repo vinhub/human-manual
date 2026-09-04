@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - Start Here/README.md",
+                "file": "00 - Start Here/The Human Manual - Master Map.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "The Human Manual - Master Map"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 - Start Here/README.md",
+                "file": "00 - Start Here/The Human Manual - Master Map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for The Human Manual - Master Map"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 - Start Here/README.md",
+                "file": "00 - Start Here/The Human Manual - Master Map.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links from The Human Manual - Master Map"
             }
           },
           {
@@ -168,7 +168,9 @@
   },
   "active": "a12b21e1452fe241",
   "lastOpenFiles": [
+    "12 - Projects/Tasklist.md",
     "00 - Start Here/Content Pipeline.md",
+    "00 - Start Here/README.md",
     "02 - Foundations/Life & Evolution/Evolution.md",
     "02 - Foundations/Life & Evolution/Cooperation.md",
     "02 - Foundations/Complexity & Emergence/Emergence.md",
@@ -177,7 +179,6 @@
     "01 - Questions/How can we know what is true?.md",
     "00 - Start Here/The Human Manual - Master Map.md",
     "00 - Start Here/Source Evaluation.md",
-    "00 - Start Here/README.md",
     "00 - Start Here/Questions Index.md",
     "01 - Questions/What is reality?.md",
     "00 - Start Here/Publishing Dashboard.md",
