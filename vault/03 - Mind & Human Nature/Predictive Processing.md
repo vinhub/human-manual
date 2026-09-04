@@ -1,7 +1,7 @@
 ---
 type: concept
 status: seed
-domain:
+domain: mind
 question: "How might perception and cognition use prediction?"
 importance: high
 confidence: provisional

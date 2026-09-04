@@ -1,7 +1,7 @@
 ---
 type: concept
 status: seed
-domain:
+domain: thinking
 question: "Why do systematic reasoning errors occur?"
 importance: high
 confidence: provisional

@@ -1,7 +1,7 @@
 ---
 type: concept
 status: seed
-domain:
+domain: thinking
 question: "Why can individually rational choices produce collectively bad outcomes?"
 importance: high
 confidence: provisional

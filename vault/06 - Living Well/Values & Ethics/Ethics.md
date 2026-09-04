@@ -1,7 +1,7 @@
 ---
 type: concept
 status: seed
-domain:
+domain: living-well
 question: "How should we decide what we ought to do?"
 importance: high
 confidence: provisional

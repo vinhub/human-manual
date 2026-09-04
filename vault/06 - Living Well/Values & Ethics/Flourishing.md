@@ -1,7 +1,7 @@
 ---
 type: concept
 status: seed
-domain:
+domain: living-well
 question: "What does it mean for a human life to go well?"
 importance: high
 confidence: provisional

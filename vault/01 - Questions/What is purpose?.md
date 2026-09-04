@@ -1,7 +1,7 @@
 ---
 type: question
 status: seed
-domain:
+domain: living-well
 importance: high
 ---
 

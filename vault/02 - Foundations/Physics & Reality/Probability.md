@@ -1,7 +1,7 @@
 ---
 type: concept
 status: seed
-domain:
+domain: reality
 question: "How should we reason about uncertainty?"
 importance: high
 confidence: provisional

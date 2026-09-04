@@ -1,7 +1,7 @@
 ---
 type: concept
 status: seed
-domain:
+domain: living-well
 question: "What is my life directed toward?"
 importance: high
 confidence: provisional

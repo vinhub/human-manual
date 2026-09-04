@@ -1,7 +1,7 @@
 ---
 type: concept
 status: seed
-domain:
+domain: reality
 question: "What are the basic regularities of the physical world?"
 importance: high
 confidence: provisional

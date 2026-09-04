@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - Start Here/The Human Manual - Master Map.md",
+                "file": "04 - Thinking & Rationality/Decision Making/Sunk Cost Fallacy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Human Manual - Master Map"
+              "title": "Sunk Cost Fallacy"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 - Start Here/The Human Manual - Master Map.md",
+                "file": "04 - Thinking & Rationality/Decision Making/Sunk Cost Fallacy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The Human Manual - Master Map"
+              "title": "Backlinks for Sunk Cost Fallacy"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 - Start Here/The Human Manual - Master Map.md",
+                "file": "04 - Thinking & Rationality/Decision Making/Sunk Cost Fallacy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from The Human Manual - Master Map"
+              "title": "Outgoing links from Sunk Cost Fallacy"
             }
           },
           {
@@ -168,6 +168,19 @@
   },
   "active": "a12b21e1452fe241",
   "lastOpenFiles": [
+    "04 - Thinking & Rationality/Cognitive Biases/Cognitive Biases.md",
+    "00 - Start Here/Questions Index.md",
+    "00 - Start Here/The Human Manual - Master Map.md",
+    "08 - Sources/Tetlock & Gardner 2015 - Superforecasting.md",
+    "08 - Sources/Grove et al 2000 - Clinical versus Mechanical Prediction.md",
+    "08 - Sources/Petrov et al 2023 - Sunk Cost Effects for Time Versus Money.md",
+    "08 - Sources/Białek & Biesiada 2025 - On the Low Reliability of Sunk Cost Vignettes.md",
+    "08 - Sources/Ronayne Sgroi & Tuckwell 2021 - Evaluating the Sunk Cost Effect.md",
+    "08 - Sources/Sleesman et al 2012 - Cleaning Up the Big Muddy.md",
+    "08 - Sources/Thaler 1980 - Toward a Positive Theory of Consumer Choice.md",
+    "08 - Sources/Arkes & Blumer 1985 - The Psychology of Sunk Cost.md",
+    "08 - Sources/Arkes & Ayton 1999 - The Sunk Cost and Concorde Effects.md",
+    "08 - Sources",
     "12 - Projects/Tasklist.md",
     "00 - Start Here/Content Pipeline.md",
     "00 - Start Here/README.md",
@@ -177,9 +190,7 @@
     "01 - Questions/How does perception work?.md",
     "01 - Questions/How do I change my behavior?.md",
     "01 - Questions/How can we know what is true?.md",
-    "00 - Start Here/The Human Manual - Master Map.md",
     "00 - Start Here/Source Evaluation.md",
-    "00 - Start Here/Questions Index.md",
     "01 - Questions/What is reality?.md",
     "00 - Start Here/Publishing Dashboard.md",
     "00 - Start Here/Curriculum.md"

@@ -1,7 +1,7 @@
 ---
 type: concept
 status: seed
-domain:
+domain: life
 question: "Why do organisms cooperate when competition exists?"
 importance: high
 confidence: provisional

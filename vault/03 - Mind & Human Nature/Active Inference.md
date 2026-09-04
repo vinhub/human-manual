@@ -1,7 +1,7 @@
 ---
 type: concept
 status: seed
-domain:
+domain: mind
 question: "How might organisms maintain themselves in an uncertain world?"
 importance: high
 confidence: provisional

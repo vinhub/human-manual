@@ -1,7 +1,7 @@
 ---
 type: concept
 status: seed
-domain:
+domain: society
 question: "How much information is reflected in market prices?"
 importance: high
 confidence: provisional

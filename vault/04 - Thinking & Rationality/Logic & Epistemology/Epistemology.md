@@ -1,7 +1,7 @@
 ---
 type: concept
 status: seed
-domain:
+domain: thinking
 question: "How can we know what is true?"
 importance: high
 confidence: provisional

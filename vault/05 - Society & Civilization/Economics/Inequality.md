@@ -1,7 +1,7 @@
 ---
 type: concept
 status: seed
-domain:
+domain: society
 question: "Why do economic outcomes differ across people and societies?"
 importance: high
 confidence: provisional

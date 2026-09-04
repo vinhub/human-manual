@@ -1,7 +1,7 @@
 ---
 type: concept
 status: seed
-domain:
+domain: thinking
 question: "How should beliefs change when evidence arrives?"
 importance: high
 confidence: provisional

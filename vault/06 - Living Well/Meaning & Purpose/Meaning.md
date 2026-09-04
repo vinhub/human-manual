@@ -1,7 +1,7 @@
 ---
 type: concept
 status: seed
-domain:
+domain: living-well
 question: "What makes a life feel significant or worth living?"
 importance: high
 confidence: provisional

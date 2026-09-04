@@ -1,7 +1,7 @@
 ---
 type: concept
 status: seed
-domain:
+domain: thinking
 question: "How should an agent choose among uncertain options?"
 importance: high
 confidence: provisional

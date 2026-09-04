@@ -159,8 +159,9 @@ The scaffolding is complete; the writing has barely begun.
 - The source library is empty — only the source template exists.
 - Domain, prerequisites, related, and sources fields are largely unfilled.
 
-Active work is tracked in [Tasklist](vault/12%20-%20Projects/Tasklist.md), the operational queue
-that sits under the [Build Roadmap](vault/12%20-%20Projects/Build%20Roadmap.md):
+Work is tracked in two places: [Tasklist](vault/12%20-%20Projects/Tasklist.md) is the production
+queue, and [REVIEW.md](REVIEW.md) collects what needs a human decision. Both sit under the
+[Build Roadmap](vault/12%20-%20Projects/Build%20Roadmap.md):
 
 | Phase | Status |
 |---|---|

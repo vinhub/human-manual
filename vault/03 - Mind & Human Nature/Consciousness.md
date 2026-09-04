@@ -1,7 +1,7 @@
 ---
 type: concept
 status: seed
-domain:
+domain: mind
 question: "What is subjective experience?"
 importance: high
 confidence: provisional

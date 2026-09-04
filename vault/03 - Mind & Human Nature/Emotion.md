@@ -1,7 +1,7 @@
 ---
 type: concept
 status: seed
-domain:
+domain: mind
 question: "What functional role do emotions play?"
 importance: high
 confidence: provisional

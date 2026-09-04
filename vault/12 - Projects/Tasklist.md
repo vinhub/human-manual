@@ -21,8 +21,9 @@ says *what to do next and how I will know it is done*.
 
 ## NEXT
 
-> **T-001**, then **T-002** (GATE — the exemplar concept note; nothing in P1+ should be mass-produced
-> before it is approved).
+> **Awaiting review.** T-001 and T-003 are done. T-002 and T-004 (both GATE) are written and sitting
+> at `status: drafted` for Vin. T-005 is deliberately held — a style guide must encode what was
+> *approved*, not what was proposed. On sign-off: mark both notes `reviewed`, do T-005, then open P1.
 
 ---
 
@@ -32,7 +33,7 @@ Nothing should be produced at volume until "good" is defined once and approved. 
 make every later task mechanical.
 
 ### T-001 — Define the `domain` vocabulary and backfill all frontmatter
-`status: todo` · `size: S` · `deps: —` · `parallel-ok`
+`status: done` · `size: S` · `deps: —` · `parallel-ok`
 
 Every note has an empty `domain:` field, so the [[Publishing Dashboard]] queries group by nothing.
 
@@ -40,10 +41,13 @@ Every note has an empty `domain:` field, so the [[Publishing Dashboard]] queries
 - A controlled vocabulary of domain values is written into [[Content Pipeline]] (one value per
   curriculum layer: reality, life, mind, thinking, society, living-well, practice).
 - Every `type: concept` and `type: question` note has a non-empty `domain` matching that vocabulary.
-- The Publishing Dashboard's three Dataview queries return correctly grouped rows.
+- ~~The Publishing Dashboard's three Dataview queries return correctly grouped rows.~~
+  **Not verified** — Dataview cannot be executed from the CLI. The underlying data is present and
+  well-formed (37/37 notes populated, vocabulary consistent); the queries need one look inside
+  Obsidian. Doing so surfaced a real defect, now tracked as T-017.
 
 ### T-002 — Write one concept note to full `reviewed` quality (GATE)
-`status: todo` · `size: M` · `deps: T-001`
+`status: review` · `size: M` · `deps: T-001`
 
 The exemplar that calibrates depth, voice, length, and evidence handling for all 25+ remaining notes.
 Proposed subject: **Sunk Cost Fallacy** — well-evidenced, has a real replication story, has genuine
@@ -59,19 +63,20 @@ limitations, and is small enough to finish properly.
 - Handed to Vin with a short note on the calls I made (length, voice, how hard I leaned on hedging).
 
 ### T-003 — Build the source-note workflow on real sources
-`status: todo` · `size: S` · `deps: —` · `parallel-ok`
+`status: done` · `size: S` · `deps: —` · `parallel-ok`
 
 The source library is empty; only the template exists. The editorial standard is unenforceable
 without it.
 
 **done-when**
-- A `08 - Sources/` folder exists with at least 3 real source notes backing T-002.
+- A `08 - Sources/` folder exists with at least 3 real source notes backing T-002. **9 written**,
+  every citation checked against journal metadata via web search.
 - Each records what it supports, key claims, caveats, and a `quality` rating tied to the evidence
   hierarchy.
 - The convention for citing a source from a concept note is documented in [[Content Pipeline]].
 
 ### T-004 — Write one question note to full quality (GATE)
-`status: todo` · `size: S` · `deps: T-002`
+`status: review` · `size: S` · `deps: T-002`
 
 Questions are the navigation layer and use a different template; they need their own calibration.
 Proposed subject: **How should I make decisions?**
@@ -83,7 +88,7 @@ Proposed subject: **How should I make decisions?**
 - Handed to Vin for sign-off.
 
 ### T-005 — Distil the approved exemplars into a house style guide
-`status: todo` · `size: S` · `deps: T-002, T-004`
+`status: blocked` · `size: S` · `deps: T-002, T-004` — blocked on sign-off, by design
 
 Encode what the gates approved so later notes do not drift.
 
@@ -92,6 +97,17 @@ Encode what the gates approved so later notes do not drift.
   when to mark a claim contested, how examples are chosen, what belongs in a concept vs a question.
 - It is written as rules I can check myself against, not as prose advice.
 - Linked from the Start Here README.
+
+### T-017 — Fix `importance` sorting in the Publishing Dashboard
+`status: todo` · `size: S` · `deps: —` · `parallel-ok`
+
+Found while doing T-001. All three dashboard queries `SORT importance DESC`, but `importance` holds
+strings, so DESC sorts alphabetically and puts `medium` above `high` — the dashboard ranks the
+backlog exactly wrong.
+
+**done-when**
+- Ordering is correct. Either a numeric `importance_rank` is added alongside the label, or the
+  queries sort on an explicit expression. Vin picks — this changes frontmatter across 37 notes.
 
 ---
 

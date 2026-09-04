@@ -1,7 +1,7 @@
 ---
 type: concept
 status: seed
-domain:
+domain: society
 question: "How do rewards and costs shape behavior?"
 importance: high
 confidence: provisional

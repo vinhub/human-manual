@@ -1,7 +1,7 @@
 ---
 type: concept
 status: seed
-domain:
+domain: society
 question: "How do societies stabilize patterns of behavior?"
 importance: high
 confidence: provisional

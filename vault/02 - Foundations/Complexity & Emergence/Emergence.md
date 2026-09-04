@@ -1,7 +1,7 @@
 ---
 type: concept
 status: seed
-domain:
+domain: reality
 question: "How can higher-level patterns arise from lower-level interactions?"
 importance: high
 confidence: provisional

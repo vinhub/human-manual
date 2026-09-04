@@ -1,7 +1,7 @@
 ---
 type: concept
 status: seed
-domain:
+domain: practice
 question: "How can attention become more deliberate?"
 importance: high
 confidence: provisional

@@ -1,7 +1,7 @@
 ---
 type: concept
 status: seed
-domain:
+domain: thinking
 question: "What makes an argument valid?"
 importance: high
 confidence: provisional

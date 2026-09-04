@@ -1,7 +1,7 @@
 ---
 type: concept
 status: seed
-domain:
+domain: life
 question: "How can complex adaptation arise without foresight?"
 importance: high
 confidence: provisional

@@ -1,7 +1,7 @@
 ---
 type: question
 status: seed
-domain:
+domain: society
 importance: high
 ---
 
