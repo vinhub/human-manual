@@ -1,10 +1,10 @@
 # The Human Manual
 
-**Working subtitle:** An Engineer's Manual for Thinking and Living
+**Subtitle:** A Science-informed, Rigorously Designed Approach for Thinking and Living
 
 ## Purpose
 
-A science-informed, reason-first curriculum for understanding reality, understanding ourselves, thinking clearly, navigating society, and living a meaningful life.
+An evidence- and reason-first curriculum for understanding reality, understanding ourselves, thinking clearly, navigating society, and living a meaningful life.
 
 The project is designed as a **knowledge system first** and a book second. Each concept should stand alone, connect to other concepts, and be reusable across:
 
